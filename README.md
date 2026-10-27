@@ -144,4 +144,70 @@ Analyzed more than **20,000 customer reviews** to identify sentiment patterns an
 
 **Outcome:** Developed sentiment classification models with approximately 90% accuracy and translated findings into customer-experience and marketing insights.
 
-### 📦 2. Supply Chain &
+📦 2. Supply Chain & Operations Analytics
+
+Jagadamba Plastic Industries Pvt. Ltd. | MBA Academic Project
+
+Evaluated supply chain and manufacturing operations across:
+
+Procurement and production planning
+
+Inventory management and warehousing
+
+Distribution and operational workflows
+
+Process bottlenecks and resource utilization
+
+Outcome: Developed recommendations focused on operational efficiency, cost reduction, supply chain optimization, and continuous improvement.
+
+📣 3. MSLSCM Marketing Campaign — Nepal
+
+Academic Marketing Campaign Project
+
+Focused on promoting a Master of Science in Logistics and Supply Chain Management program to prospective students in Nepal.
+
+Areas of focus:
+
+Marketing strategy and campaign planning
+
+Prospective-student outreach
+
+Program promotion and audience targeting
+
+This project description summarizes the available project context; detailed campaign results and performance metrics have not been specified.
+
+🎓 EDUCATION
+
+Wright State University
+
+M.S. in Business Analytics & Insights
+Relevant coursework: Business Analytics, Big Data Analytics, Predictive Analytics, Marketing Research, Data Visualization, Econometrics, and Consumer Analytics.
+
+The British College — Leeds Beckett University
+
+Bachelor of Business Administration (BBA)
+
+The British College — University of the West of England
+
+Master of Business Administration (MBA) — Distinction
+Relevant coursework: Supply Chain Management, Operational Analytics, Strategic Marketing, Business Analytics, Consumer Behavior, and Data-Driven Decision Making.
+
+📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=upretyshrutee&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upretyshrutee&layout=compact&theme=merko&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:064e3b,100:050505&height=120&section=footer" width="100%" />
+
+💚 DATA · INSIGHTS · IMPACT
+
+Always learning. Always analyzing. Always improving.
+
+</div>
