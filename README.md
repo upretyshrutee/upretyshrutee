@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:064e3b,100:39FF14&height=200&section=header&text=SHRUTEE%20UPRETY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:075985,100:38BDF8&height=200&section=header&text=SHRUTEE%20UPRETY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=16" width="100%" />
 
-### SENIOR DATA ANALYST | BUSINESS INTELLIGENCE | PREDICTIVE ANALYTICS
+### 💠 SENIOR DATA ANALYST | BUSINESS INTELLIGENCE | PREDICTIVE ANALYTICS
 
 *Turning complex data into meaningful business decisions.*
 
 📍 Columbus, Ohio, USA
 
-<a href="https://github.com/upretyshrutee">
-<img src="https://img.shields.io/badge/GitHub-upretyshrutee-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=101010" />
-</a>
+<img src="https://img.shields.io/badge/DATA-ANALYTICS-38BDF8?style=for-the-badge&labelColor=07111F" />
+<img src="https://img.shields.io/badge/EXPERIENCE-6%20YEARS-38BDF8?style=for-the-badge&labelColor=07111F" />
 
 </div>
 
@@ -18,13 +17,13 @@
 
 ## 👩‍💻 ABOUT ME
 
-I'm a Senior Data Analyst with **6 years of experience** across banking, credit risk, digital payments, healthcare analytics, and business intelligence.
+I'm a Senior Data Analyst with 6 years of experience across banking, credit risk, digital payments, healthcare analytics, and business intelligence.
 
 I specialize in transforming complex datasets into actionable insights that support business strategy, operational performance, and data-driven decision-making.
 
 - 📊 Banking, credit portfolio, payment, and healthcare analytics
 - 🐍 SQL, Python, R, SAS, and statistical analysis
-- 📈 Interactive dashboards, KPI reporting, and visualization
+- 📈 Interactive dashboards, KPI reporting, and data visualization
 - ☁️ Google Cloud Platform and BigQuery analytics
 - 🔍 Data quality, reconciliation, governance, and root-cause analysis
 - 🤖 NLP, sentiment analysis, predictive modeling, and AI-assisted analytics
@@ -32,98 +31,103 @@ I specialize in transforming complex datasets into actionable insights that supp
 
 ---
 
-## ⚡ TECH STACK
+## 🛠️ TECH STACK
 
 ### 💻 Programming & Data Analysis
 
 <p>
-<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=black" />
-<img src="https://img.shields.io/badge/R-39FF14?style=for-the-badge&logo=r&logoColor=black" />
-<img src="https://img.shields.io/badge/SAS-39FF14?style=for-the-badge&logo=sas&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-39FF14?style=for-the-badge&logo=openjdk&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQL-07111F?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/R-07111F?style=for-the-badge&logo=r&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SAS-07111F?style=for-the-badge&logo=sas&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Java-07111F?style=for-the-badge&logo=openjdk&logoColor=38BDF8" />
 </p>
 
 ### 📊 Business Intelligence & Visualization
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-39FF14?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-39FF14?style=for-the-badge&logo=tableau&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=black" />
-<img src="https://img.shields.io/badge/DAX-39FF14?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power%20Query-39FF14?style=for-the-badge&logo=microsoftpowerpoint&logoColor=black" />
+<img src="https://img.shields.io/badge/Power%20BI-07111F?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Tableau-07111F?style=for-the-badge&logo=tableau&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Excel-07111F?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/DAX-07111F?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Power%20Query-07111F?style=for-the-badge&logo=microsoftpowerpoint&logoColor=38BDF8" />
 </p>
 
 ### ☁️ Cloud & Data Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Cloud-39FF14?style=for-the-badge&logo=googlecloud&logoColor=black" />
-<img src="https://img.shields.io/badge/BigQuery-39FF14?style=for-the-badge&logo=googlebigquery&logoColor=black" />
-<img src="https://img.shields.io/badge/Enterprise%20Data%20Warehousing-39FF14?style=for-the-badge&logo=databricks&logoColor=black" />
-<img src="https://img.shields.io/badge/Oracle%20CRM-39FF14?style=for-the-badge&logo=oracle&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Cloud-07111F?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/BigQuery-07111F?style=for-the-badge&logo=googlebigquery&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Oracle%20CRM-07111F?style=for-the-badge&logo=oracle&logoColor=38BDF8" />
 </p>
 
-### 🧠 Python Libraries & Machine Learning
+### 🧠 Data Science & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=black" />
-<img src="https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-39FF14?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-<img src="https://img.shields.io/badge/NLTK-39FF14?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-07111F?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/NumPy-07111F?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Scikit--learn-07111F?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/NLP-07111F?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Random%20Forest-07111F?style=for-the-badge&logo=python&logoColor=38BDF8" />
 </p>
 
-### 📈 Core Analytics Competencies
+### 🎯 Core Competencies
 
-`Data Cleaning` · `ETL & Data Preparation` · `Customer Segmentation` · `Regression Analysis` · `Forecasting` · `Cohort & Vintage Analysis` · `Scenario Analysis` · `Trend & Variance Analysis` · `Anomaly Detection` · `NLP` · `Sentiment Analysis` · `Predictive Modeling`
+`SQL Analytics` · `Data Cleaning` · `Data Transformation` · `Customer Segmentation` · `Regression Analysis` · `Forecasting` · `Cohort & Vintage Analysis` · `Scenario Analysis` · `Trend & Variance Analysis` · `Anomaly Detection` · `NLP` · `Sentiment Analysis` · `Predictive Modeling` · `KPI Reporting` · `Dashboard Development`
 
 ### 🛡️ Data Quality & Delivery
 
-`Data Profiling` · `Data Validation` · `Reconciliation` · `Root-Cause Analysis` · `Data Lineage` · `Data Governance` · `Regulatory Reporting` · `Git` · `Jira` · `Confluence` · `Agile/Scrum`
+`Data Profiling` · `Data Validation` · `Reconciliation` · `Root-Cause Analysis` · `Data Lineage` · `Data Governance` · `Regulatory Reporting` · `Git` · `Jira` · `Confluence` · `Agile/Scrum` · `Requirements Gathering`
 
 ---
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
 ### 🏦 KeyBank
-**Senior Data Analyst** | Cleveland, Ohio | Oct 2025 – Present
+**Senior Data Analyst** | Cleveland, Ohio | October 2025 – Present
 
-- Analyze consumer banking and credit portfolio data to support risk and portfolio strategy.
-- Develop SQL queries and reusable datasets in Google Cloud BigQuery.
-- Apply Python, R, and SAS for segmentation, forecasting, regression, and anomaly detection.
-- Build executive Tableau dashboards to monitor customer behavior, portfolio trends, and operational KPIs.
-- Automate recurring reporting and reconciliation workflows.
+- Analyze consumer banking and credit portfolio data to support risk management and portfolio strategy.
+- Develop advanced SQL queries and reusable datasets in Google Cloud BigQuery.
+- Use Python, Pandas, NumPy, R, and SAS for data preparation, segmentation, regression, forecasting, and anomaly detection.
+- Build executive Tableau dashboards to monitor customer behavior, credit trends, and operational KPIs.
+- Use Gemini in BigQuery to assist with SQL development and analytical documentation, validating outputs against source data.
+- Automate recurring reporting, data preparation, and reconciliation workflows.
 - Perform data-quality testing, root-cause analysis, and source-to-report validation.
 - Collaborate with Credit Risk, Finance, Product, Operations, and Technology teams.
 
 ### 🏦 Global IME Bank Limited
-**Data Analyst** | Nepal | Nov 2022 – Mar 2024
+**Data Analyst** | Nepal | November 2022 – March 2024
 
-- Analyzed customer accounts, deposits, loans, and transaction data.
-- Developed SQL queries for banking datasets and management reporting.
+- Analyzed customer accounts, deposits, loans, and transactions to identify business trends.
+- Developed SQL queries to combine banking datasets and support management reporting.
 - Built Power BI dashboards using DAX and Power Query.
-- Used Python and R to prepare data, analyze customer segments, and visualize trends.
-- Automated recurring reporting and investigated data discrepancies.
-- Worked with business stakeholders to define KPIs and reporting requirements.
+- Used R, dplyr, tidyr, and ggplot2 for data preparation, customer segmentation, and visualization.
+- Automated recurring reporting using Python, SQL, and Excel.
+- Investigated missing records, duplicate transactions, and reporting discrepancies.
+- Defined KPIs and reporting requirements with business stakeholders.
+- Participated in Agile/Scrum planning and reporting enhancements.
 
 ### 💳 Focus One Payment Solutions
-**Data Analyst** | Nepal | Oct 2020 – Sep 2022
+**Data Analyst** | Nepal | October 2020 – September 2022
 
 - Analyzed **50,000+ digital-payment transactions monthly**.
-- Built interactive Power BI dashboards, reducing manual reporting effort by approximately 40%.
-- Automated data preparation and reporting, saving more than 10 hours of manual work per week.
-- Used SQL, Python, Java, and Excel to support payment operations and merchant reporting.
-- Performed transaction reconciliation, variance analysis, and root-cause investigations.
-- Used Oracle CRM data to analyze merchant onboarding, sales activity, and customer interactions.
+- Built Power BI dashboards, reducing manual reporting effort by approximately 40%.
+- Developed advanced SQL queries for payment operations and merchant reporting.
+- Automated data extraction and reporting, saving more than 10 hours of manual work per week.
+- Investigated failed payments, duplicate transactions, and processing delays.
+- Used Oracle CRM data to analyze merchant onboarding and customer interactions.
+- Collaborated with operations, sales, customer service, technology, and management teams.
 
 ### 🏥 Cotiviti
-**Data Analyst** | Nepal | Mar 2019 – Sep 2020
+**Data Analyst** | Nepal | March 2019 – September 2020
 
 - Analyzed healthcare claims, member eligibility, provider information, diagnoses, and payment data.
-- Developed SQL queries and Python workflows for data extraction, transformation, and analysis.
+- Developed SQL queries to extract, reconcile, and summarize reporting data.
+- Used Python, Pandas, and Excel to clean and transform datasets.
 - Created recurring reports and Power BI dashboards for healthcare operations.
 - Validated datasets containing **more than 1 million records per reporting cycle**.
-- Investigated data discrepancies and supported reporting-quality improvements.
-- Collaborated with analysts, data engineers, QA teams, and business stakeholders.
+- Investigated reporting discrepancies and communicated findings to business teams.
+- Collaborated with analysts, data engineers, QA teams, and stakeholders.
 
 ---
 
@@ -144,70 +148,68 @@ Analyzed more than **20,000 customer reviews** to identify sentiment patterns an
 
 **Outcome:** Developed sentiment classification models with approximately 90% accuracy and translated findings into customer-experience and marketing insights.
 
-📦 2. Supply Chain & Operations Analytics
+### 📦 2. Supply Chain & Operations Analytics
 
-Jagadamba Plastic Industries Pvt. Ltd. | MBA Academic Project
+**Jagadamba Plastic Industries Pvt. Ltd. | MBA Academic Project**
 
-Evaluated supply chain and manufacturing operations across:
+Evaluated supply chain and manufacturing operations across procurement, production planning, inventory management, warehousing, and distribution.
 
-Procurement and production planning
+**Focus areas**
+- Operational bottlenecks and process improvement
+- Inventory control and resource utilization
+- Cost reduction and supply chain efficiency
 
-Inventory management and warehousing
+**Outcome:** Developed recommendations focused on operational excellence and continuous improvement.
 
-Distribution and operational workflows
+### 📣 3. MSLSCM Marketing Campaign — Nepal
 
-Process bottlenecks and resource utilization
-
-Outcome: Developed recommendations focused on operational efficiency, cost reduction, supply chain optimization, and continuous improvement.
-
-📣 3. MSLSCM Marketing Campaign — Nepal
-
-Academic Marketing Campaign Project
+**Academic Marketing Campaign Project**
 
 Focused on promoting a Master of Science in Logistics and Supply Chain Management program to prospective students in Nepal.
 
-Areas of focus:
+- Marketing strategy and campaign planning
+- Prospective-student outreach
+- Program promotion and audience targeting
 
-Marketing strategy and campaign planning
+*Detailed campaign results and performance metrics have not been specified.*
 
-Prospective-student outreach
+---
 
-Program promotion and audience targeting
+## 🎓 EDUCATION
 
-This project description summarizes the available project context; detailed campaign results and performance metrics have not been specified.
+### 🎓 Wright State University
+**M.S. in Business Analytics & Insights** | Ohio, USA
 
-🎓 EDUCATION
-
-Wright State University
-
-M.S. in Business Analytics & Insights
 Relevant coursework: Business Analytics, Big Data Analytics, Predictive Analytics, Marketing Research, Data Visualization, Econometrics, and Consumer Analytics.
 
-The British College — Leeds Beckett University
+### 🎓 The British College — Leeds Beckett University
+**Bachelor of Business Administration (BBA)** | Nepal
 
-Bachelor of Business Administration (BBA)
+### 🎓 The British College — University of the West of England
+**Master of Business Administration (MBA) — Distinction** | Nepal
 
-The British College — University of the West of England
-
-Master of Business Administration (MBA) — Distinction
 Relevant coursework: Supply Chain Management, Operational Analytics, Strategic Marketing, Business Analytics, Consumer Behavior, and Data-Driven Decision Making.
 
-📊 GITHUB STATISTICS
+---
+
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=upretyshrutee&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=upretyshrutee&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=07111F" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upretyshrutee&layout=compact&theme=merko&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upretyshrutee&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=07111F" />
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:064e3b,100:050505&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:07111F&height=120&section=footer" width="100%" />
 
-💚 DATA · INSIGHTS · IMPACT
+### 💙 DATA · INSIGHTS · IMPACT
 
-Always learning. Always analyzing. Always improving.
+*Always learning. Always analyzing. Always improving.*
 
 </div>
