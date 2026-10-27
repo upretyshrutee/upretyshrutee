@@ -163,15 +163,46 @@ Evaluated supply chain and manufacturing operations across procurement, producti
 
 ### 📣 3. MSLSCM Marketing Campaign — Nepal
 
-**Academic Marketing Campaign Project**
+### 📣 3. Digital Marketing Campaign Analytics — Wright State University MSLSCM
 
-Focused on promoting a Master of Science in Logistics and Supply Chain Management program to prospective students in Nepal.
+**Digital Marketing Strategy | Google Ads | Campaign Optimization | Market Research**
 
-- Marketing strategy and campaign planning
-- Prospective-student outreach
-- Program promotion and audience targeting
+Designed and evaluated an **8-week digital marketing campaign** promoting Wright State University's Master of Science in Logistics and Supply Chain Management (MSLSCM) program to prospective students in Nepal, with a primary focus on Kathmandu and surrounding regions.
 
-*Detailed campaign results and performance metrics have not been specified.*
+**🛠️ Platforms & Strategy**
+- **Google Search & Display Ads:** Targeted prospective students searching for logistics, supply chain management, graduate programs, and study opportunities in the United States.
+- **LinkedIn & TikTok:** Expanded digital outreach and program awareness.
+- **Audience Targeting:** Focused on prospective students in Kathmandu, Lalitpur, Bhaktapur, and other regions of Nepal.
+- **Campaign Optimization:** Refined keywords, bidding strategies, ad relevance, and negative keywords to improve traffic quality.
+- **Value-Based Messaging:** Highlighted affordability, career opportunities, and the program's STEM designation and associated OPT opportunities.
+
+**📊 Campaign Performance**
+
+| Metric | Result |
+|---|---:|
+| Campaign Duration | 8 weeks |
+| Total Impressions | 71,000+ |
+| Total Clicks | 7,670+ |
+| Average Cost Per Click | $0.09 |
+| Google Search Ad Spend | $654 |
+| Google Ads Optimization Score | 95.6% |
+
+**💡 Key Insights**
+- Google Search generated relevant traffic from prospective students actively exploring graduate study opportunities.
+- Mobile users represented an important audience segment, particularly among people aged 21–31.
+- Career opportunities, affordability, and STEM/OPT considerations were important themes in the campaign's messaging.
+- Expanding geographic targeting and refining keywords helped improve campaign relevance.
+
+**🚀 Recommendations**
+- Develop mobile-first advertisements and improve landing-page navigation.
+- Provide clearer information about scholarships, career opportunities, and the admissions process.
+- Conduct A/B testing of ad headlines and messaging.
+- Increase investment in high-performing search campaigns.
+- Explore video content, influencer collaborations, and automated responses to student inquiries.
+
+**Outcome:** Applied digital marketing analytics and campaign optimization to increase program visibility, evaluate audience engagement, and identify opportunities to improve recruitment marketing in Nepal.
+
+**Technologies & Skills:** Google Ads, Digital Marketing Analytics, Keyword Research, Audience Segmentation, Campaign Optimization, Market Research, Performance Measurement, A/B Testing Recommendations.
 
 ---
 
