@@ -161,8 +161,6 @@ Evaluated supply chain and manufacturing operations across procurement, producti
 
 **Outcome:** Developed recommendations focused on operational excellence and continuous improvement.
 
-### 📣 3. MSLSCM Marketing Campaign — Nepal
-
 ### 📣 3. Digital Marketing Campaign Analytics — Wright State University MSLSCM
 
 **Digital Marketing Strategy | Google Ads | Campaign Optimization | Market Research**
